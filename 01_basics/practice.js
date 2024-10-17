@@ -123,11 +123,29 @@
 // const value = calculateArithmetic(1, 2, "sum");
 // console.log(value);
 
-function greet() {
-  console.log("hello world");
-}
-function greetAlien() {
-  console.log("hello Alien");
-}
-setTimeout(greet, 1 * 3000);
-setInterval(greetAlien, 1 * 1000);
+// function greet() {
+//   console.log("hello world");
+// }
+// function greetAlien() {
+//   console.log("hello Alien");
+// }
+// setTimeout(greet, 1 * 3000);
+// setInterval(greetAlien, 1 * 1000);
+
+// let number = 30;
+// for (let i = 0; i < 30; i++) {
+//   number = number + 1;
+//   console.log(number);
+// }
+
+// let number = 30;
+
+// const countdown = setInterval(function () {
+//   console.log(number);
+//   number--;
+
+//   if (number < 0) {
+//     clearInterval(countdown);
+//     console.log("Countdown finished!");
+//   }
+// }, 1000);
